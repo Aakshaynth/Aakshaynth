@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay nath
 - 👀 I’m interested in Test Automation
 - 🌱 I’m currently learning Python
-- 💞️ I’m happy to contribute on any Software for social good, which can drive a good social impact
+- 💞️ I’m happy to contribute on any Social welfare Projects
 - 📫 Reach me @ akshaynath3@gmail.com
 
 <!---
