@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay nath
 - 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on Test Automation using Java & Python
 - 💞️ I’m happy to contribute on any Social welfare Projects
 - 📫 Reach me @ akshaynath3@gmail.com
 
